@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactorialLogic", "Factorial
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciSeries", "FibonacciSeries\FibonacciSeries.csproj", "{6E3BAFC4-FD14-4667-8780-CA106A0647F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLength", "StringLength\StringLength.csproj", "{B5205751-0E0E-4FC9-A86F-D63548B778C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringLength", "StringLength\StringLength.csproj", "{B5205751-0E0E-4FC9-A86F-D63548B778C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountWords", "CountWords\CountWords.csproj", "{849E9B86-BB9A-440E-8F00-DC85DD2D905E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{B5205751-0E0E-4FC9-A86F-D63548B778C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5205751-0E0E-4FC9-A86F-D63548B778C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5205751-0E0E-4FC9-A86F-D63548B778C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{849E9B86-BB9A-440E-8F00-DC85DD2D905E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849E9B86-BB9A-440E-8F00-DC85DD2D905E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849E9B86-BB9A-440E-8F00-DC85DD2D905E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849E9B86-BB9A-440E-8F00-DC85DD2D905E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
